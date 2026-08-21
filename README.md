@@ -1,5 +1,4 @@
-# Hey, What's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-
+<h1 align="left"> Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> </h1>
 My name is **Shashank Mishra** and I'm a **B.Tech student in Artificial Intelligence & Data Science** from India.
 
 ## About me
