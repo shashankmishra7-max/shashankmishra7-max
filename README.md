@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, What's up? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-<!--
-**shashankmishra7-max/shashankmishra7-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Shashank Mishra** and I'm a **B.Tech student in Artificial Intelligence & Data Science** from India.
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📚 Currently learning **Machine Learning, Data Science & Generative AI**
+* 💻 Working with **Python, C++, SQL and JavaScript**
+* 🔨 Building projects to turn what I learn into practical applications
+* 🎯 Goal: Become an **AI Engineer**
+
+## Technologies I use
+
+**Languages:**
+Python · C++ · SQL · JavaScript
+
+**Data Science & AI:**
+NumPy · Pandas · Matplotlib · Scikit-learn · Machine Learning
+
+**Development:**
+React · Node.js · MongoDB
+
+**Tools:**
+Git · GitHub · Jupyter · VS Code
+
+## Currently working on
+
+* Machine Learning projects
+* Data Science & EDA
+* DSA and problem solving
+* Generative AI & Agentic AI
+
+### Connect with me
+
+[LinkedIn](YOUR_LINKEDIN) · [Email](YOUR_EMAIL)
