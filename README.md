@@ -1,8 +1,7 @@
 <h1 align="left">
   Hey, I'm Shashank <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">
 </h1>
-My name is ** Shashank Mishra ** and I'm a ** B.Tech student in Artificial Intelligence & Data Science ** from India.
-
+My name is **Shashank Mishra** and I'm a **B.Tech student in Artificial Intelligence & Data Science** from India.
 ## About me
 
 * 📚 Currently learning **Machine Learning, Data Science & Generative AI**
@@ -13,16 +12,16 @@ My name is ** Shashank Mishra ** and I'm a ** B.Tech student in Artificial Intel
 ## Technologies I use
 
 **Languages:**
-Python · C++ · SQL · JavaScript
+Python · C++ · C · SQL · JavaScript · HTML · CSS
 
 **Data Science & AI:**
-NumPy · Pandas · Matplotlib · Scikit-learn · Machine Learning
+NumPy · Pandas · Matplotlib · Scikit-learn · Machine Learning · River
 
 **Development:**
 React · Node.js · MongoDB
 
 **Tools:**
-Git · GitHub · Jupyter · VS Code
+Git · GitHub · Jupyter · VS Code · PowerBI · Hadoop 
 
 ## Currently working on
 
