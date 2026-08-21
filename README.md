@@ -2,6 +2,7 @@
   Hey, I'm Shashank <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="32px">
 </h1>
 My name is **Shashank Mishra** and I'm a **B.Tech student in Artificial Intelligence & Data Science** from India.
+
 ## About me
 
 * 📚 Currently learning **Machine Learning, Data Science & Generative AI**
