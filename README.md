@@ -18,9 +18,6 @@ Python · C++ · C · SQL · JavaScript · HTML · CSS
 **Data Science & AI:**
 NumPy · Pandas · Matplotlib · Scikit-learn · Machine Learning · River
 
-**Development:**
-React · Node.js · MongoDB
-
 **Tools:**
 Git · GitHub · Jupyter · VS Code · PowerBI · Hadoop 
 
